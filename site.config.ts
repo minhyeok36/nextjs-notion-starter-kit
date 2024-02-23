@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: '지역건설공학과 70대 학생회 홈페이',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: '유민',
+  author: '유민혁',
 
   // open graph metadata (optional)
   description: '안녕하세요! 지역건설공학과 70대 학생회 RISE 입니다!',
