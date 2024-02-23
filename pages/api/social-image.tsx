@@ -131,7 +131,7 @@ export default async function OGImage(req: NextRequest) {
           </div>
         </div>
 
-        {pageInfo.authorImage && (
+        {pageInfo.socialImage && (
           <div
             style={{
               position: 'absolute',
@@ -146,7 +146,7 @@ export default async function OGImage(req: NextRequest) {
             }}
           >
             <img
-              src={pageInfo.authorImage}
+              src={pageInfo.socialImage}
               style={{
                 width: '100%',
                 height: '100%'
