@@ -17,7 +17,7 @@ export default siteConfig({
   description: '안녕하세요! 지역건설공학과 70대 학생회 RISE 입니다!',
 
   // social usernames (optional)
-  instagram: 'knu_ried',
+  //instagram: 'knu_ried',
   //github: 'transitive-bullshit',
   //linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
